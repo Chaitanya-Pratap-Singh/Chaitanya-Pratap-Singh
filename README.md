@@ -2,7 +2,7 @@
 <h3 align = "center"><strong>A Student 👨🏻‍🎓 and a Programming Enthusiast 👩‍💻 from India </h3>
 <img src = "files/image.svg" align ="right" width = 50%>
 <div align = left width = 50%>
-<p style="font-size:30px"><b> 🙋🏻‍♂️<u> About ME </u><b></p>
+<h2 style="font-size:30px"><b> 🙋🏻‍♂️ About ME <b></h2>
 <ul>
 <li>I love to learn to code in differnt languages</li>
 <li>I am looking forward to contribute on Open Source Projects💻</li>
