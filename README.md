@@ -12,4 +12,4 @@
 </div>
 
 
-<p style="font-size:30px" align ="center" width = 100%><u>Tools and Technologies</u></p>
+<h2 style="font-size:30px" align ="center" width = 100%><u>Tools and Technologies</u></h2>
