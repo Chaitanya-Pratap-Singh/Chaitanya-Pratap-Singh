@@ -22,3 +22,5 @@
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chaitanyapratapsingh)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/16525992/chaitanya-pratap-singh)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100015141066687)
+[<img align="left" alt="dev.to" src="https://img.shields.io/badge/dev%20community-000000?logo=dev.to&logoColor=white&style=for-the-badge"/>](https://dev.to/chaitanyapratapsingh)
+[<img align="left" alt="dev.to" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/chaitanya._24/)
