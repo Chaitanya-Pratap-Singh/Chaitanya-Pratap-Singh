@@ -31,3 +31,12 @@
 [<img align="top" alt="dev.to" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/chaitanya._24/)
 <br>  
 </div>
+  
+  <h2 align = "centre" >Github Stats</h2>
+  
+
+  ## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=chaitanya-pratap-singh">
+</a>
+<a href="https://github.com/chaitanya-pratap-singh?tab=followers"><img src="https://img.shields.io/github/followers/chaitanya-pratap-singh?label=Followers&style=social" alt="GitHub Badge"></a>
