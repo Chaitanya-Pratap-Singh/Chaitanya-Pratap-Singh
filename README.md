@@ -1,3 +1,4 @@
+![banner](files/banner.png)
 <h1 align ="center">Hi,<img src ="files/wave.gif"width = 30> I'm Chaitanya Pratap Singh</h1>
 <h3 align = "center"><strong>A Student 👨🏻‍🎓 and a Programming Enthusiast 👩‍💻 from India </h3>
 <img src = "files/image.svg" align ="right" width = 50%>
