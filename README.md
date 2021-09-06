@@ -1,7 +1,7 @@
-![banner](files/banner.png)
-<h1 align ="center">Hi,<img src ="files/wave.gif"width = 30> I'm Chaitanya Pratap Singh</h1>
+![banner](https://drive.google.com/uc?export=view&id=1gB6chQiTx7_x-3lQwGzFzlhW9mDWhUg-)
+<h1 align ="center">Hi,<img src ="https://drive.google.com/uc?export=view&id=1kOj3ThGP_Hu_-eg_8EWp9iuLymulknvS"width = 35> I'm Chaitanya Pratap Singh</h1>
 <h3 align = "center"><strong>A Student 👨🏻‍🎓 and a Programming Enthusiast 👩‍💻 from India </h3>
-<img src = "files/image.svg" align ="right" width = 50%>
+<img src = "https://drive.google.com/uc?export=view&id=1RL7KPzhUVY8ZF4acbWcjwDhdMgqoUmym" align ="right" width = 50%>
 <div align = left width = 50%>
 <h2 style="font-size:30px"><b> 🙋🏻‍♂️ About ME <b></h2>
 <ul>
@@ -17,7 +17,7 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <br>
-<img src ="files/image2.svg" align = "left" width = 50%>
+<img src ="https://drive.google.com/uc?export=view&id=1IV6COf8x3Gzpg2iPqMyqyzkc__r3tYAJ" align = "left" width = 50%>
 <div>
 <h2  > Connect with me</h2>
 
