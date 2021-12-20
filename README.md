@@ -1,6 +1,6 @@
 ![banner](https://drive.google.com/uc?export=view&id=1gB6chQiTx7_x-3lQwGzFzlhW9mDWhUg-)
 <h1 align ="center">Hi,<img src ="https://drive.google.com/uc?export=view&id=1kOj3ThGP_Hu_-eg_8EWp9iuLymulknvS"width = 35> I'm Chaitanya Pratap Singh</h1>
-<h3 align = "center"><strong>A Student 👨🏻‍🎓 and a Programming Enthusiast 👩‍💻 from India </h3>
+<img src = "https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23F7F7F7&size=16&center=true&vCenter=true&width=500&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+from+India">
 <img src = "https://drive.google.com/uc?export=view&id=1RL7KPzhUVY8ZF4acbWcjwDhdMgqoUmym" align ="right" width = 50%>
 <div align = left width = 50%>
 <h2 style="font-size:30px"><b> 🙋🏻‍♂️ About ME <b></h2>
