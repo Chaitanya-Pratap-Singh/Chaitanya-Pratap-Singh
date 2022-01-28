@@ -18,7 +18,7 @@
  alt="css3"  /> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a> <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" /> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" /> </a>  </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python"  /> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"" /> </a> </p>
 
 <br>
-<img src ="https://drive.google.com/uc?export=view&id=1IV6COf8x3Gzpg2iPqMyqyzkc__r3tYAJ" align = "left" width = 50%>
+<img src ="https://drive.google.com/uc?export=view&id=1qg9c1Ek5w5ZXQjYfrSSRAxp5B6Ii-Zuf" align = "left" width = 50%>
 <div>
 <h2  > Connect with me</h2>
 
