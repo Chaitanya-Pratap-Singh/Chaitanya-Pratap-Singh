@@ -1,7 +1,7 @@
 ![banner](https://drive.google.com/uc?export=view&id=1-mjUyCm0QYpisdufj1O7acOAKaKZiXrI)
 <h1 align ="center">Hi,<img src ="https://drive.google.com/uc?export=view&id=1kOj3ThGP_Hu_-eg_8EWp9iuLymulknvS"width = 35> I'm Chaitanya Pratap Singh</h1>
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=650&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+from+India"></h3>
-<img src = "https://drive.google.com/uc?export=view&id=1RL7KPzhUVY8ZF4acbWcjwDhdMgqoUmym" align ="right" width = 50%>
+<img src = "https://drive.google.com/uc?export=view&id=1FxN5bfKfuED68yE1DMlrhk69_0txr-Ra/" align ="right" width = 50%>
 <div align = "left" width = 50%>
 <h2><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/312/man-raising-hand-light-skin-tone_1f64b-1f3fb-200d-2642-fe0f.png"> About ME </h2>
 <ul>
