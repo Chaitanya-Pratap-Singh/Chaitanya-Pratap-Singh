@@ -33,6 +33,7 @@
 [<img align="top" alt="dev.to" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/chaitanya._24/)
 <br>  
 </div>
+ <hr>
   
 ## 📊 My Github Stats
 
