@@ -29,7 +29,6 @@ mystery, thriller, or science fiction novel.
 
 ## ▶
 
-
 ## My Stats
 
 [![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&theme=tokyonight&bgcolour=FFFFFF00&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
