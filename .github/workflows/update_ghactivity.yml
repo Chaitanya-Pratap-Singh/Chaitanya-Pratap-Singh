@@ -17,8 +17,9 @@ jobs:
   
 
       - uses: jamesgeorge007/github-activity-readme@master
-      with:
-      comment_tag_name: "activity"
+        with:
+         comment_tag_name: "activity"
+       
       
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
