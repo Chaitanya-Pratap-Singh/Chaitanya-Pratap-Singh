@@ -42,6 +42,6 @@ mystery, thriller, or science fiction novel.
 <details>
   <summary>:zap: Recent GitHub Activities</summary>
   
-<!--Activity:Start-->
+<!--START_SECTION:activity-->
 
-<!--Activity:End-->
+<!--END_SECTION:activity-->
