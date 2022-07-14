@@ -6,3 +6,7 @@
 
 Hey  I'm Chaitanya Pratap Singh, a student that enjoys building and creating things using various technologies. My ambition is to use technology to have a positive impact on the world.
 I'm also a content creator who enjoys a good mystery, thriller, or science fiction novel.
+
+## My Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh)](https://github.com/anuraghazra/github-readme-stats)
