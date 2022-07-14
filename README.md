@@ -9,4 +9,5 @@ I'm also a content creator who enjoys a good mystery, thriller, or science ficti
 
 ## My Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh)](https://github.com/anuraghazra/github-readme-stats)
+[![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&theme=react&colour=171515)](https://github.com/anuraghazra/github-readme-stats)
+
