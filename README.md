@@ -14,13 +14,10 @@ mystery, thriller, or science fiction novel.
 ### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Channel Intro](https://www.youtube.com/watch?v=Fn3aLdQErNM)
-- [Java In 30 Secs](https://www.youtube.com/watch?v=-lM9WfphuhE)
-- [Programming Languages For Android Development #shorts](https://www.youtube.com/watch?v=JyaH9LEwlis)
-- [Channel Intro](https://www.youtube.com/watch?v=TjS5RSCM1to)
+
 <!-- YOUTUBE:END -->
 
-▶
+▶ [more videos...][youtube]
 
 ---
 
@@ -30,12 +27,17 @@ mystery, thriller, or science fiction novel.
 
 <!-- BLOG-POST-LIST:END -->
 
-## ▶
+▶ [more blog posts...][blog]
 
-## My Stats
+---
 
-[![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&theme=tokyonight&bgcolour=FFFFFF00&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+:zap: GitHub Stats
 
+<img align="left" alt="n3wt0n's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&show_icons=true&hide_border=true&count_private=true" />
+
+<details>
+  <summary>:zap: Recent GitHub Activities</summary>
+  
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
