@@ -18,7 +18,7 @@ jobs:
 
       - uses: jamesgeorge007/github-activity-readme@master
         with:
-         comment_tag_name: "activity"
+         comment_tag_name: "Activity"
        
       
         env:
