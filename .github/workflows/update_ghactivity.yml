@@ -18,7 +18,7 @@ jobs:
 
       - uses: jamesgeorge007/github-activity-readme@master
         with:
-         comment_tag_name: "Activity"
+         GH_USERNAME: Chaitanya-Pratap-Singh
        
       
         env:
