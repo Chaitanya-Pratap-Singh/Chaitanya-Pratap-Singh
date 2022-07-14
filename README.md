@@ -16,7 +16,7 @@ mystery, thriller, or science fiction novel.
 <!-- YOUTUBE:START -->
 - [Channel Intro](https://www.youtube.com/watch?v=Fn3aLdQErNM)
 - [Java In 30 Secs](https://www.youtube.com/watch?v=-lM9WfphuhE)
-- [Programming Languages For Android Development #shorts](https://www.youtube.com/watch?v=JyaH9LEwlis)
+- [Programming Languages For Android Development](https://www.youtube.com/watch?v=JyaH9LEwlis)
 - [Channel Intro](https://www.youtube.com/watch?v=TjS5RSCM1to)
 <!-- YOUTUBE:END -->
 
@@ -27,7 +27,8 @@ mystery, thriller, or science fiction novel.
 ### 📑 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Introducing Git & GitHub: A Friendly Guide For Newbies](https://chaitanyaps.netlify.app/post/introducing-git-github-a-friendly-guide-for-newbies/)
+- [What Is This Blog all About?](https://chaitanyaps.netlify.app/post/what-is-this-blog-all-about/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blog posts...](chaitanyaps.netlify.app)
