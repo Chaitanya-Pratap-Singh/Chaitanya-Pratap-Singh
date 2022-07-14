@@ -10,4 +10,4 @@ I'm also a content creator who enjoys a good mystery, thriller, or science ficti
 ## My Stats
 
 [![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&theme=tokyonight&bgcolour=FFFFFF00&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Pratap-Singh&theme=tokyonight&bgcolour=FFFFFF00&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Pratap-Singh&theme=tokyonight&bgcolour=FFFFFF00&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
