@@ -20,7 +20,7 @@ mystery, thriller, or science fiction novel.
 - [Channel Intro](https://www.youtube.com/watch?v=TjS5RSCM1to)
 <!-- YOUTUBE:END -->
 
-▶ [more videos...][youtube]
+▶ [more videos...](https://www.youtube.com/channel/UC_WZTg6vY2YAMnvBPHu2DEQ)
 
 ---
 
@@ -30,13 +30,13 @@ mystery, thriller, or science fiction novel.
 
 <!-- BLOG-POST-LIST:END -->
 
-▶ [more blog posts...][blog]
+▶ [more blog posts...](chaitanyaps.netlify.app)
 
 ---
 
 :zap: GitHub Stats
 
-<img align="left" alt="n3wt0n's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="n3wt0n's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&show_icons=true&hide_border=true&count_private=true"&theme="react" />
 
 <details>
   <summary>:zap: Recent GitHub Activities</summary>
