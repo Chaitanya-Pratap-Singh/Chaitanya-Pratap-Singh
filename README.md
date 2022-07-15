@@ -2,7 +2,7 @@
 
 <h1 align ="center">Hi,<img src ="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif"width = 35> I'm Chaitanya Pratap Singh</h1>
 
-<h2 align = "center"> Student | Programming Enthusiasts | Video Editor | Adaptive Reader </h2>
+<h2 align = "center"> Student | Programming Enthusiasts | Content Creator </h2>
 
 ## About Me
 
@@ -11,7 +11,7 @@ things using various technologies. My ambition is to use technology to have a
 positive impact on the world. I'm also a content creator who enjoys a good
 mystery, thriller, or science fiction novel.
 
-### 🎥 Latest YouTube Videos
+### 🎥 My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Channel Intro](https://www.youtube.com/watch?v=Fn3aLdQErNM)
@@ -23,5 +23,6 @@ mystery, thriller, or science fiction novel.
 ▶ [more videos...](https://www.youtube.com/channel/UC_WZTg6vY2YAMnvBPHu2DEQ)
 
 ---
+## 📊My Github Stats
 
 ![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&show_icons=true&countprivate=true&theme=nord&hide_border=true)
