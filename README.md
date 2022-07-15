@@ -24,17 +24,4 @@ mystery, thriller, or science fiction novel.
 
 ---
 
-### 📑 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Introducing Git & GitHub: A Friendly Guide For Newbies](https://chaitanyaps.netlify.app/post/introducing-git-github-a-friendly-guide-for-newbies/)
-- [What Is This Blog all About?](https://chaitanyaps.netlify.app/post/what-is-this-blog-all-about/)
-<!-- BLOG-POST-LIST:END -->
-
-▶ [more blog posts...](chaitanyaps.netlify.app)
-
----
-
-:zap: GitHub Stats
-
-<img align="left" alt="n3wt0n's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&show_icons=true&hide_border=true&count_private=true&theme=tokoyonight"/>
+![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&show_icons=true&countprivate=true&theme=tyokonight)
