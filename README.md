@@ -24,4 +24,4 @@ mystery, thriller, or science fiction novel.
 
 ---
 
-![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&show_icons=true&countprivate=true&theme=github-dark&hide_border=true)
+![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&show_icons=true&countprivate=true&theme=nord&hide_border=true)
