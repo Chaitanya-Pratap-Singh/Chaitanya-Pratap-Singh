@@ -28,8 +28,8 @@ mystery, thriller, or science fiction novel.
 [<img align="top" alt="dev.to" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/chaitanya._24/)
 
 </div>
+<br>
 <hr>
-
 
 ## 🎥 My Latest YouTube Videos
 
