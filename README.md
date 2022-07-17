@@ -18,8 +18,6 @@ mystery, thriller, or science fiction novel.
 <div align ="right" width = 55%>
   
 <h2> 🤝🏻 Connect with me </h2>
-  
-  <br>
 [<img align="top" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chaitanyapratapsingh)
 <br>  
 [<img align="top" alt="website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>](http://chaitanyaps.netlify.app/)
