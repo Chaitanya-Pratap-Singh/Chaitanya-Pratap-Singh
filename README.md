@@ -14,7 +14,7 @@ mystery, thriller, or science fiction novel.
 
 ## 🤝🏻 Connect with me
 
-<img align = "left" width = 50% src = "assets/socialmedia.svg"> 
+<img align = "left" width = 45% src = "assets/socialmedia.svg"> 
 <div>
 
 [<img align="top" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chaitanyapratapsingh)
