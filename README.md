@@ -12,9 +12,33 @@ things using various technologies. My ambition is to use technology to have a
 positive impact on the world. I'm also a content creator who enjoys a good
 mystery, thriller, or science fiction novel.
 
-### 🎥 My Latest YouTube Videos
+## 🤝🏻 Connect with me
+
+<img align = "left" width = 45% src = "assets/socialmedia.svg"> 
+<div align = "right">
+
+[<img align="top" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chaitanyapratapsingh)
+<br>  
+[<img align="top" alt="website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>](http://chaitanyaps.netlify.app/)
+<br>  
+[<img align="top" alt="twitter" src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/Chaitanya_2406)
+<br>  
+[<img align="top" alt="youtube" src="https://img.shields.io/badge/Youtube-ff0000?logo=youtube&logoColor=white&style=for-the-badge"/>](https://bit.ly/ytcps)
+<br>  
+[<img align="top" alt="dev.to" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/chaitanya._24/)
+
+</div>
+<hr>
+
+## Blogs posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 🎥 My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Channel Intro](https://www.youtube.com/watch?v=Fn3aLdQErNM)
 - [Java In 30 Secs](https://www.youtube.com/watch?v=-lM9WfphuhE)
 - [Programming Languages For Android Development #shorts](https://www.youtube.com/watch?v=JyaH9LEwlis)
@@ -24,6 +48,13 @@ mystery, thriller, or science fiction novel.
 ▶ [more videos...](https://www.youtube.com/channel/UC_WZTg6vY2YAMnvBPHu2DEQ)
 
 ---
+
+## Tools and Technologies
+
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+---
+
 ## 📊My Github Stats
 
 ![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&show_icons=true&countprivate=true&theme=nord&hide_border=true)
