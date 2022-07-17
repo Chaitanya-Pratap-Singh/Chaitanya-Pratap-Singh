@@ -43,7 +43,6 @@ mystery, thriller, or science fiction novel.
 ## 🎥 My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Channel Intro](https://www.youtube.com/watch?v=Fn3aLdQErNM)
 - [Java In 30 Secs](https://www.youtube.com/watch?v=-lM9WfphuhE)
 - [Programming Languages For Android Development #shorts](https://www.youtube.com/watch?v=JyaH9LEwlis)
