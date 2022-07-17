@@ -30,10 +30,6 @@ mystery, thriller, or science fiction novel.
 </div>
 <hr>
 
-## Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## 🎥 My Latest YouTube Videos
 
