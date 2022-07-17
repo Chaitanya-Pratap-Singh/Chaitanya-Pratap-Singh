@@ -29,8 +29,8 @@ mystery, thriller, or science fiction novel.
 
 </div>
 <br>
-<hr>
----
+<br>
+<br>
 
 
 ## 🎥 My Latest YouTube Videos
