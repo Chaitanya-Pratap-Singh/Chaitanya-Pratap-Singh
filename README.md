@@ -12,13 +12,13 @@ things using various technologies. My ambition is to use technology to have a
 positive impact on the world. I'm also a content creator who enjoys a good
 mystery, thriller, or science fiction novel.
 
-
+<h2  > Connect with me</h2>
 
 <img align = "left" width = 45% src = "assets/socialmedia.svg"> 
 <div align ="right" width = 55%>
   
 <div>
-<h2  > Connect with me</h2>
+
 
 [<img align="top" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chaitanyapratapsingh)
 <br>  
