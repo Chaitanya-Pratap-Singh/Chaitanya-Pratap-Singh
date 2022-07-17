@@ -63,3 +63,12 @@ mystery, thriller, or science fiction novel.
 ## 📊My Github Stats
 
 ![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&show_icons=true&countprivate=true&theme=nord&hide_border=true)
+  ![Chaitanya-Pratap-Singh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Pratap-Singh&langs_count=8&count_private=true&layout=compact&theme=nord&hide_border=true&bg_color=0D1117")
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+## ❤ Views and Followers
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=chaitanya-pratap-singh">
+</a>
+<a href="https://github.com/chaitanya-pratap-singh?tab=followers"><img src="https://img.shields.io/github/followers/chaitanya-pratap-singh?label=Followers&style=social" alt="GitHub Badge"></a>
