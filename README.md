@@ -14,8 +14,8 @@ mystery, thriller, or science fiction novel.
 
 <h2  > Connect with me</h2>
 
-<img align = "left" width = 45% src = "assets/socialmedia.svg"> 
-<div align ="right" width = 55%>
+<img align = "left" width = 40% src = "assets/socialmedia.svg"> 
+<div align ="right">
   
 <div>
 
