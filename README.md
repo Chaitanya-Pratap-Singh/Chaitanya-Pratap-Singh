@@ -17,7 +17,9 @@ mystery, thriller, or science fiction novel.
 <img align = "left" width = 45% src = "assets/socialmedia.svg"> 
 <div align ="right" width = 55%>
   
-<h2> 🤝🏻 Connect with me </h2>
+<div>
+<h2  > Connect with me</h2>
+
 [<img align="top" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chaitanyapratapsingh)
 <br>  
 [<img align="top" alt="website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>](http://chaitanyaps.netlify.app/)
@@ -27,6 +29,9 @@ mystery, thriller, or science fiction novel.
 [<img align="top" alt="youtube" src="https://img.shields.io/badge/Youtube-ff0000?logo=youtube&logoColor=white&style=for-the-badge"/>](https://bit.ly/ytcps)
 <br>  
 [<img align="top" alt="instagram" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/chaitanya._24/)
+<br>  
+
+</div>
 
 </div>
 <br>
