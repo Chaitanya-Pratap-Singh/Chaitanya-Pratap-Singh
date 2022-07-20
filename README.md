@@ -43,11 +43,11 @@ mystery, thriller, or science fiction novel.
 ## 🎥 My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [#100daysofcode Day 1/100](https://www.youtube.com/watch?v=6elE_phdmlE)
 - [Getting Started with #100daysofcode Day 0/100](https://www.youtube.com/watch?v=4QqD7xED8jc)
 - [Channel Intro](https://www.youtube.com/watch?v=Fn3aLdQErNM)
 - [Java In 30 Secs](https://www.youtube.com/watch?v=-lM9WfphuhE)
 - [Programming Languages For Android Development #shorts](https://www.youtube.com/watch?v=JyaH9LEwlis)
-- [Channel Intro](https://www.youtube.com/watch?v=TjS5RSCM1to)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...](https://www.youtube.com/channel/UC_WZTg6vY2YAMnvBPHu2DEQ)
