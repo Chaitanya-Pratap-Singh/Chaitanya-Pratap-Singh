@@ -43,9 +43,9 @@ mystery, thriller, or science fiction novel.
 ## 🎥 My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [#100daysofcode Day 3/100](https://www.youtube.com/watch?v=wq5Yws7d_xE)
-- [#100daysofcode  Day2/100](https://www.youtube.com/watch?v=cfgfgMa4fFQ)
-- [#100daysofcode Day 1/100](https://www.youtube.com/watch?v=6elE_phdmlE)
+- [100 Days Of Code Day 3/100 #100daysofcode  #shorts](https://www.youtube.com/watch?v=wq5Yws7d_xE)
+- [100 Days Of Code Day 2/100 #100daysofcode  #shorts](https://www.youtube.com/watch?v=cfgfgMa4fFQ)
+- [100 Days Of Code Day 1/100 #100daysofcode  #shorts](https://www.youtube.com/watch?v=6elE_phdmlE)
 - [Getting Started with #100daysofcode Day 0/100](https://www.youtube.com/watch?v=4QqD7xED8jc)
 - [Channel Intro](https://www.youtube.com/watch?v=Fn3aLdQErNM)
 <!-- YOUTUBE:END -->
