@@ -43,11 +43,11 @@ mystery, thriller, or science fiction novel.
 ## 🎥 My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [100 Days Of Code Day 21/100 #100daysofcode  #html #css #programming #frontend](https://www.youtube.com/watch?v=MZpaxltuWc8)
 - [100 Days Of Code Day 20/100 #100daysofcode  #html #css #programming #frontend](https://www.youtube.com/watch?v=9wxP-bCHD_Q)
 - [100 Days Of Code Day 19/100 #100daysofcode  #html #css #programming #frontend](https://www.youtube.com/watch?v=VZirAFqFciY)
 - [100 Days Of Code Day 18/100 #100daysofcode  #html #css #programming #frontend #tailwindcss](https://www.youtube.com/watch?v=UVnWf-w67fg)
 - [100 Days Of Code Day 17/100 #100daysofcode  #html #css #programming #frontend #shorts](https://www.youtube.com/watch?v=JE1v7rRLjKw)
-- [100 Days Of Code Day 16/100 #100daysofcode  #html #css #programming #frontend #tailwindcss](https://www.youtube.com/watch?v=bZIEKbcQrUo)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...](https://www.youtube.com/channel/UC_WZTg6vY2YAMnvBPHu2DEQ)
