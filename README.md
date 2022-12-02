@@ -53,6 +53,12 @@ mystery, thriller, or science fiction novel.
 ▶ [more videos...](https://www.youtube.com/channel/UC_WZTg6vY2YAMnvBPHu2DEQ)
 
 ---
+## 📝My Latest Blogs
+<!-- BLOG-POST-LIST -->
+
+
+▶ [more blogs...](https://chaitanya-2406.medium.com/)
+
 
 ## Tools and Technologies
 
