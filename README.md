@@ -43,7 +43,7 @@ mystery, thriller, or science fiction novel.
 ## 🎥 My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Mangarh Mini Vlog #minivlog](https://www.youtube.com/watch?v=k-r-IApIBa8)
+- [Mangarh Mini Vlog #minivlog #bhaktimandir #mangarh_dham #travel](https://www.youtube.com/watch?v=k-r-IApIBa8)
 - [100 Days Of Code Day 21/100 #100daysofcode  #html #css #programming #frontend](https://www.youtube.com/watch?v=MZpaxltuWc8)
 - [100 Days Of Code Day 20/100 #100daysofcode  #html #css #programming #frontend](https://www.youtube.com/watch?v=9wxP-bCHD_Q)
 - [100 Days Of Code Day 19/100 #100daysofcode  #html #css #programming #frontend](https://www.youtube.com/watch?v=VZirAFqFciY)
