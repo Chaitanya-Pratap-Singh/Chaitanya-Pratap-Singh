@@ -1,5 +1,5 @@
 <!-- @format -->
-<img width =100%  src = "assets\Chaitanya Pratap Singh.gif">
+<img width =100%  src = "assets\header.png">
 
 <h1 align ="center">Hi,<img src ="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif"width = 35> I'm Chaitanya Pratap Singh</h1>
 
