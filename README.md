@@ -54,6 +54,7 @@ My ambition is to use technology to improve the world into a better place.
 ---
 ## 📝My Latest Blogs
 <!-- BLOG-POST-LIST:START -->
+- [What is an API?](https://chaitanya-2406.medium.com/what-is-an-api-271dce12b3cb?source=rss-df250b1c9497------2)
 - [Markdown: Simple Introduction](https://chaitanya-2406.medium.com/markdown-simple-introduction-382631e2a348?source=rss-df250b1c9497------2)
 - [Introducing Git &amp; GitHub: A Friendly Guide For Newbies](https://chaitanya-2406.medium.com/introducing-git-github-a-friendly-guide-for-newbies-57103468f4b1?source=rss-df250b1c9497------2)
 <!-- BLOG-POST-LIST:END -->
