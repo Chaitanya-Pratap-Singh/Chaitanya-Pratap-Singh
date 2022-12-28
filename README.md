@@ -7,10 +7,9 @@
 
 ## About Me
 
-Hey I'm Chaitanya Pratap Singh, a student that enjoys building and creating
-things using various technologies. My ambition is to use technology to have a
-positive impact on the world. I'm also a content creator who enjoys a good
-mystery, thriller, or science fiction novel.
+I am a Youtuber and Programming Enthusiast living in Prayagraj, India, and a Computer Science and Communication Engineering undergraduate at KIIT, Bhubaneshwar.
+As a hobby, I love to edit videos and read books
+My ambition is to use technology to improve the world into a better place.
 
 <h2  > Connect with me</h2>
 
