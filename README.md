@@ -8,7 +8,7 @@
 ## About Me
 
 I am a Youtuber and Programming Enthusiast living in Prayagraj, India, and a Computer Science and Communication Engineering undergraduate at KIIT, Bhubaneshwar.
-As a hobby, I love to edit videos and read books
+As a hobby, I love to edit videos and read books.
 My ambition is to use technology to improve the world into a better place.
 
 <h2  > Connect with me</h2>
