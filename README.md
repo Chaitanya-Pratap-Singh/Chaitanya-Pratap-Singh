@@ -42,7 +42,7 @@ My ambition is to use technology to improve the world into a better place.
 ## 🎥 My Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Bubble Sort Explained in less than 30 secs #bubblesort #sortingalgorithms #programming #algorithm](https://www.youtube.com/watch?v=PTvoZR-3sng)
+- [Bubble Sort Explained in 30 secs #bubblesort #sortingalgorithms #programming #algorithm  #coding](https://www.youtube.com/watch?v=PTvoZR-3sng)
 - [Mangarh Mini Vlog #minivlog #bhaktimandir #mangarh_dham #travel](https://www.youtube.com/watch?v=k-r-IApIBa8)
 - [100 Days Of Code Day 21/100 #100daysofcode  #html #css #programming #frontend](https://www.youtube.com/watch?v=MZpaxltuWc8)
 - [100 Days Of Code Day 20/100 #100daysofcode  #html #css #programming #frontend](https://www.youtube.com/watch?v=9wxP-bCHD_Q)
