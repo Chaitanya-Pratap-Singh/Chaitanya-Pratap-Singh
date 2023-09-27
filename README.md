@@ -1,6 +1,7 @@
-		<div class="header">
-			<img src="" alt="banner" />
-			<h1 align="center">
+<!-- @format -->
+<img width =100%  src = "">
+
+<h1 align="center">
 				Hi
 				<img
 					height="35px"
@@ -9,12 +10,10 @@
 				/>
 				I'm Chaitanya Pratap Singh
 			</h1>
-			<h2 align="center">
+      			<h2 align="center">
 				Tech Enthusiast | Content Creator | Engineering Undergrad
 			</h2>
-		</div>
-		<div class="about">
-			<p align="left">
+            <img align="right" height ="50%" width=50% src="https://ik.imagekit.io/chaitanya/Readme/aboutme.png?updatedAt=1695800966813" alt="">
 				Hello, I'm Chaitanya - a programming enthusiast, content creator, and
 				undergrad in Computer Science and Communication Engineering. I'm
 				passionate about sharing my tech journey and refining my skills as a
@@ -25,6 +24,3 @@
 				challenge myself and expand my horizons.. Feel free to connect and
 				explore opportunities with me. You can reach me at
 				chaitanyapratapsingh24@gmail.com.
-			</p>
-            <img align="right" src="https://ik.imagekit.io/chaitanya/Readme/aboutme.png?updatedAt=1695800325967" alt="">
-		</div>
