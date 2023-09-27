@@ -1,84 +1,30 @@
-<!-- @format -->
-<img width =100%  src = "assets\header.png">
-
-<h1 align ="center">Hi,<img src ="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif"width = 35> I'm Chaitanya Pratap Singh</h1>
-
-<h2 align = "center"> Student | Programming Enthusiasts | Content Creator </h2>
-
-## About Me
-
-I am a Youtuber and Programming Enthusiast living in Prayagraj, India, and a Computer Science and Communication Engineering undergraduate at KIIT, Bhubaneshwar.
-As a hobby, I love to edit videos and read books.
-My ambition is to use technology to improve the world into a better place.
-
-<h2  > Connect with me</h2>
-
-<img align = "left" width = 40% src = "assets/socialmedia.svg"> 
-<div align ="right">
-  
-<div>
-
-
-[<img align="top" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chaitanyapratapsingh)
-<br>  
-[<img align="top" alt="website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>](http://chaitanyaps.netlify.app/)
-<br>  
-[<img align="top" alt="twitter" src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/Chaitanya_2406)
-<br>  
-[<img align="top" alt="youtube" src="https://img.shields.io/badge/Youtube-ff0000?logo=youtube&logoColor=white&style=for-the-badge"/>](https://bit.ly/ytcps)
-<br>  
-[<img align="top" alt="instagram" src="https://img.shields.io/badge/instagram-cd486b?logo=instagram&logoColor=white&style=for-the-badge"/>](https://www.instagram.com/chaitanya._24/)
-<br>  
-
-</div>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-## 🎥 My Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Bubble Sort Explained in 30 secs #bubblesort #sortingalgorithms #programming #algorithm  #coding](https://www.youtube.com/watch?v=PTvoZR-3sng)
-- [Mangarh Mini Vlog #minivlog #bhaktimandir #mangarh_dham #travel](https://www.youtube.com/watch?v=k-r-IApIBa8)
-- [100 Days Of Code Day 21/100 #100daysofcode  #html #css #programming #frontend](https://www.youtube.com/watch?v=MZpaxltuWc8)
-- [100 Days Of Code Day 20/100 #100daysofcode  #html #css #programming #frontend](https://www.youtube.com/watch?v=9wxP-bCHD_Q)
-- [100 Days Of Code Day 19/100 #100daysofcode  #html #css #programming #frontend](https://www.youtube.com/watch?v=VZirAFqFciY)
-<!-- YOUTUBE:END -->
-
-▶ [more videos...](https://www.youtube.com/channel/UC_WZTg6vY2YAMnvBPHu2DEQ)
-
----
-## 📝My Latest Blogs
-<!-- BLOG-POST-LIST:START -->
-- [What is an API?](https://chaitanya-2406.medium.com/what-is-an-api-271dce12b3cb?source=rss-df250b1c9497------2)
-- [Markdown: Simple Introduction](https://chaitanya-2406.medium.com/markdown-simple-introduction-382631e2a348?source=rss-df250b1c9497------2)
-- [Introducing Git &amp; GitHub: A Friendly Guide For Newbies](https://chaitanya-2406.medium.com/introducing-git-github-a-friendly-guide-for-newbies-57103468f4b1?source=rss-df250b1c9497------2)
-<!-- BLOG-POST-LIST:END -->
-
-
-▶ [more blogs...](https://chaitanya-2406.medium.com/)
-
-
-## Tools and Technologies
-
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
----
-
-## 📊My Github Stats
-
-![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&show_icons=true&countprivate=true&theme=nord&hide_border=true)
-<br>
-  ![Chaitanya-Pratap-Singh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Pratap-Singh&langs_count=8&count_private=true&theme=nord&hide_border=true)
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-## ❤ Views and Followers
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=chaitanya-pratap-singh">
-</a>
-<a href="https://github.com/chaitanya-pratap-singh?tab=followers"><img src="https://img.shields.io/github/followers/chaitanya-pratap-singh?label=Followers&style=social" alt="GitHub Badge"></a>
+		<div class="header">
+			<img src="" alt="banner" />
+			<h1 align="center">
+				Hi
+				<img
+					height="35px"
+					src="https://ik.imagekit.io/chaitanya/Readme/hi.gif?updatedAt=1695799718129"
+					alt="👋"
+				/>
+				I'm Chaitanya Pratap Singh
+			</h1>
+			<h2 align="center">
+				Tech Enthusiast | Content Creator | Engineering Undergrad
+			</h2>
+		</div>
+		<div class="about">
+			<p align="left">
+				Hello, I'm Chaitanya - a programming enthusiast, content creator, and
+				undergrad in Computer Science and Communication Engineering. I'm
+				passionate about sharing my tech journey and refining my skills as a
+				video editor at KIIT Robotics Society. In the past, I've dabbled in
+				various tech trends and projects, constantly seeking innovative
+				solutions. I bring creativity, storytelling prowess, and a thirst for
+				innovation to the table. I'm always looking for new opportunities to
+				challenge myself and expand my horizons.. Feel free to connect and
+				explore opportunities with me. You can reach me at
+				chaitanyapratapsingh24@gmail.com.
+			</p>
+            <img align="right" src="https://ik.imagekit.io/chaitanya/Readme/aboutme.png?updatedAt=1695800325967" alt="">
+		</div>
