@@ -23,4 +23,24 @@
 				innovation to the table. I'm always looking for new opportunities to
 				challenge myself and expand my horizons.. Feel free to connect and
 				explore opportunities with me. You can reach me at
-				chaitanyapratapsingh24@gmail.com.
+				chaitanyapratapsingh24@gmail.com.   
+    			
+---
+
+## 🎥My Youtube Videos
+
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+
+▶ [more videos...](https://www.youtube.com/channel/UC_WZTg6vY2YAMnvBPHu2DEQ)
+
+---
+
+## 📝My Latest Blogs
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+▶ [more blogs...](https://chaitanya-2406.medium.com/)
