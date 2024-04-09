@@ -26,6 +26,10 @@
 				chaitanyapratapsingh24@gmail.com.   
     			
 ---
+## 📈 Stats
+<img src="https://raw.githubusercontent.com/Chaitanya-Pratap-Singh /Chaitanya-Pratap-Singh /output/snake.svg" alt="Snake animation" />
+
+###
 
 ## 🎥My Youtube Videos
 
