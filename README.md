@@ -29,7 +29,10 @@
 ## 📈 Stats
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&show_icons=true&theme=dark)
 
-<img src="https://raw.githubusercontent.com/chaitanya-pratap-singh /chaitanya-pratap-singh /output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img  src="https://github.com/Chaitanya-Pratap-Singh/contribution-cal-snake/blob/master/animation/snake.gif"
+       alt="snake" />
+</div>
 
 ###
 
