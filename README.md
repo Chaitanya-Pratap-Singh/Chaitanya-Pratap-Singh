@@ -27,11 +27,20 @@
     			
 ---
 ## 📈 Stats
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&show_icons=true&theme=dark)
+
+
+
+<div align="center" style="display: flex ;justify-content: space-around;align-items: center; ">
+	<img style="padding: 2rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Pratap-Singh&show_icons=true&theme=dracula" alt="">
+	<img style="padding: 2rem;" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&show_icons=true&theme=dracula" alt="">
+  </div>
+  
+  ###
+
 
 <!-- <img src="https://github.com/Chaitanya-Pratap-Singh/Chaitanya-Pratap-Singh/blob/output/github-contribution-grid-snake.svg" alt="snakeanimation"> -->
 
-###
+
 
 ## 🎥My Youtube Videos
 
