@@ -27,7 +27,7 @@
     			
 ---
 ## 📈 Stats
-<img src="https://raw.githubusercontent.com/Chaitanya-Pratap-Singh /Chaitanya-Pratap-Singh /output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/chaitanya-pratap-singh /chaitanya-pratap-singh /output/snake.svg" alt="Snake animation" />
 
 ###
 
