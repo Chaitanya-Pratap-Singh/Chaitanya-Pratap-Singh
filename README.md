@@ -45,11 +45,11 @@
 ## 🎥My Youtube Videos
 
 <!-- YOUTUBE:START -->
-- [The Power of Editing: Before and After  | Get Rich By Andrew Tate](https://www.youtube.com/watch?v=--sDxZYq6RQ)
 - [Bubble Sort Explained in 30 secs #bubblesort #sortingalgorithms #programming #algorithm  #coding](https://www.youtube.com/watch?v=PTvoZR-3sng)
 - [Mangarh Mini Vlog #minivlog #bhaktimandir #mangarh_dham #travel](https://www.youtube.com/watch?v=k-r-IApIBa8)
 - [100 Days Of Code Day 21/100 #100daysofcode  #html #css #programming #frontend](https://www.youtube.com/watch?v=MZpaxltuWc8)
 - [100 Days Of Code Day 20/100 #100daysofcode  #html #css #programming #frontend](https://www.youtube.com/watch?v=9wxP-bCHD_Q)
+- [100 Days Of Code Day 19/100 #100daysofcode  #html #css #programming #frontend](https://www.youtube.com/watch?v=VZirAFqFciY)
 <!-- YOUTUBE:END -->
 
 ▶ [more videos...](https://www.youtube.com/channel/UC_WZTg6vY2YAMnvBPHu2DEQ)
