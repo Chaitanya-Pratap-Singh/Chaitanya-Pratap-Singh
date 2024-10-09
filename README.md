@@ -50,7 +50,7 @@
 - [Demystifying Variables: Your Guide to Data Storage in Programming](https://chaitanya-2406.medium.com/demystifying-variables-your-guide-to-data-storage-in-programming-7311a221626?source=rss-df250b1c9497------2)
 - [What is an API?](https://chaitanya-2406.medium.com/what-is-an-api-271dce12b3cb?source=rss-df250b1c9497------2)
 - [Markdown: Simple Introduction](https://chaitanya-2406.medium.com/markdown-simple-introduction-382631e2a348?source=rss-df250b1c9497------2)
-- [Introducing Git & GitHub: A Friendly Guide For Newbies](https://chaitanya-2406.medium.com/introducing-git-github-a-friendly-guide-for-newbies-57103468f4b1?source=rss-df250b1c9497------2)
+- [Introducing Git &amp; GitHub: A Friendly Guide For Newbies](https://chaitanya-2406.medium.com/introducing-git-github-a-friendly-guide-for-newbies-57103468f4b1?source=rss-df250b1c9497------2)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blogs...](https://chaitanya-2406.medium.com/)
