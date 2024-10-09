@@ -1,51 +1,39 @@
-<!-- @format -->
-<img width =100%  src = "https://ik.imagekit.io/chaitanya/Readme/github%20banner.png?updatedAt=1695884792595">
+<img width="100%" src="https://ik.imagekit.io/chaitanya/Readme/github%20banner.png?updatedAt=1695884792595" alt="GitHub Banner" />
 
 <h1 align="center">
-				Hi
-				<img
-					height="35px"
-					src="https://ik.imagekit.io/chaitanya/Readme/hi.gif?updatedAt=1695799718129"
-					alt="👋"
-				/>
-				I'm Chaitanya Pratap Singh
-			</h1>
-      			<h2 align="center">
-				Tech Enthusiast | Content Creator | Engineering Undergrad
-			</h2>
-            <img align="right" height ="50%" width=50% src="https://ik.imagekit.io/chaitanya/Readme/aboutme.png?updatedAt=1695800966813" alt="">
-				Hello, I'm Chaitanya - a programming enthusiast, content creator, and
-				undergrad in Computer Science and Communication Engineering. I'm
-				passionate about sharing my tech journey and refining my skills as a
-				video editor at KIIT Robotics Society. In the past, I've dabbled in
-				various tech trends and projects, constantly seeking innovative
-				solutions. I bring creativity, storytelling prowess, and a thirst for
-				innovation to the table. I'm always looking for new opportunities to
-				challenge myself and expand my horizons.. Feel free to connect and
-				explore opportunities with me. You can reach me at
-				chaitanyapratapsingh24@gmail.com.   
-    			
+  Hi there!
+  <img src="https://ik.imagekit.io/chaitanya/Readme/hi.gif?updatedAt=1695799718129" height="35px" alt="👋" />
+  I'm Chaitanya Pratap Singh
+</h1>
+
+<h2 align="center">Tech Enthusiast | Content Creator | Engineering Undergrad</h2>
+
 ---
+
+<p align="center">
+  <img align="right" width="40%" src="https://ik.imagekit.io/chaitanya/Readme/aboutme.png?updatedAt=1695800966813" alt="About Me" />
+  Hello, I'm Chaitanya - a programming enthusiast, content creator, and undergrad in Computer Science and Communication Engineering. I'm passionate about sharing my tech journey and refining my skills as a video editor at KIIT Robotics Society. I love exploring various tech trends and constantly seek innovative solutions. 
+  <br /><br />
+  I bring creativity, storytelling, and a thirst for innovation to the table. Let's connect and explore opportunities together!
+  <br /><br />
+  <strong>Feel free to reach out:</strong> chaitanyapratapsingh24@gmail.com
+</p>
+
+---
+
 ## 📈 Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Pratap-Singh&show_icons=true&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&show_icons=true&theme=dracula" alt="GitHub Stats" />
+</div>
 
+---
 
-<div align="center" style="display: flex ;justify-content: space-around;align-items: center; ">
-	<img style="padding: 5rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Pratap-Singh&show_icons=true&theme=dracula" alt="">
-	<img style="padding: 5rem;" src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&show_icons=true&theme=dracula" alt="">
-  </div>
-  
-  ###
-
-
-<!-- <img src="https://github.com/Chaitanya-Pratap-Singh/Chaitanya-Pratap-Singh/blob/output/github-contribution-grid-snake.svg" alt="snakeanimation"> -->
-
-
-
-## 🎥My Youtube Videos
+## 🎥 My YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Bubble Sort Explained in 30 secs #bubblesort #sortingalgorithms #programming #algorithm  #coding](https://www.youtube.com/watch?v=PTvoZR-3sng)
+- [Bubble Sort Explained in 30 secs #bubblesort #sortingalgorithms #programming #algorithm #coding](https://www.youtube.com/watch?v=PTvoZR-3sng)
 - [Mangarh Mini Vlog #minivlog #bhaktimandir #mangarh_dham #travel](https://www.youtube.com/watch?v=k-r-IApIBa8)
 - [100 Days Of Code Day 21/100 #100daysofcode  #html #css #programming #frontend](https://www.youtube.com/watch?v=MZpaxltuWc8)
 - [100 Days Of Code Day 20/100 #100daysofcode  #html #css #programming #frontend](https://www.youtube.com/watch?v=9wxP-bCHD_Q)
@@ -56,13 +44,13 @@
 
 ---
 
-## 📝My Latest Blogs
+## 📝 My Latest Blogs
 
 <!-- BLOG-POST-LIST:START -->
 - [Demystifying Variables: Your Guide to Data Storage in Programming](https://chaitanya-2406.medium.com/demystifying-variables-your-guide-to-data-storage-in-programming-7311a221626?source=rss-df250b1c9497------2)
 - [What is an API?](https://chaitanya-2406.medium.com/what-is-an-api-271dce12b3cb?source=rss-df250b1c9497------2)
 - [Markdown: Simple Introduction](https://chaitanya-2406.medium.com/markdown-simple-introduction-382631e2a348?source=rss-df250b1c9497------2)
-- [Introducing Git &amp; GitHub: A Friendly Guide For Newbies](https://chaitanya-2406.medium.com/introducing-git-github-a-friendly-guide-for-newbies-57103468f4b1?source=rss-df250b1c9497------2)
+- [Introducing Git & GitHub: A Friendly Guide For Newbies](https://chaitanya-2406.medium.com/introducing-git-github-a-friendly-guide-for-newbies-57103468f4b1?source=rss-df250b1c9497------2)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [more blogs...](https://chaitanya-2406.medium.com/)
