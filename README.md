@@ -5,7 +5,7 @@
   I'm Chaitanya Pratap Singh
 </h1>
 
-**` MERN Stack Developer | Building Responsive and Intuitive User Experiences | Pre-Final Year Student at KIIT University`**
+**` MERN Stack Developer | Crafting Responsive User Experiences | Pre-Final Year at KIIT"`**
 
 ---
 
