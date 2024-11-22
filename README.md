@@ -44,11 +44,13 @@
 
 #
 
-### 📈 Stats
+### 📈 Stats & Contribution
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chaitanya-Pratap-Singh&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </div>
+
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
