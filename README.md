@@ -6,7 +6,7 @@
 </h1>
 <div align="center">
   
-**` MERN Stack Developer | Crafting Responsive User Experiences | Pre-Final Year at KIIT"`**
+**` MERN Stack Developer | Crafting Responsive User Experiences | Pre-Final Year at KIIT`**
 
 </div>
 
